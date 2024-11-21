@@ -1,0 +1,3 @@
+- Resturant name: bazooka - dish: big zooka - price: 12 - # - 
+- Resturant name: bazooka - dish: checkin sand - price: 12 - # - 
+- Resturant name: bazooka - dish: botato - price: 1 - # - 

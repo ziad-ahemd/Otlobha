@@ -1,0 +1,4 @@
+- name: ahmed samir - password: 123456 - Acctype: Restaurant Owner - phone: 01124426523 - address: cairo - # -
+- name: ziad amgad - password: 159951 - Acctype: Delivery Personnel - phone: 01124426532 - address: salam - # -
+- name: nour wael - password: 124578 - Acctype: Customer - phone: 01118777835 - address: giza - # -
+- name: galal naser - password: 142536 - Acctype: Restaurant Owner - phone: 01124446523 - address: ramses - # -

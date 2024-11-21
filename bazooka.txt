@@ -1,0 +1,2 @@
+- name: checkin sandwich - category: checkin - discription: large - price: 15 - # -
+- name: big zooka - category: checkin - discription: small - price: 12 - # - 

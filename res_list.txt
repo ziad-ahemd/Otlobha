@@ -1,0 +1,9 @@
+- name: bazooka - category: fried checkin - owner: ziad ahmed - phone: 01123718076 - address: 5, el manial st - # - 
+- name: zooba - category: koshari - owner: noura adel - phone: 01124426532 - address: 9, el zamalek st - # - 
+- name: Heart attack - category: fried checkin - owner: ramy malek - phone: 01123618076 - address: 6, el monib st - # - 
+- name: tika - category: grill - owner: galal naser - phone: 01123638076 - address: 21, city mall st - # - 
+- name: shamina - category: sory - owner: tarek sadek - phone: 01123318076 - address: 44, paris st - # - 
+- name: zack's - category: fried checkin - owner: essam emad - phone: 01133618076 - address: 45, paris st - # - 
+- name: rolzz - category: fried checkin - owner: ziad ahmed - phone: 01523618076 - address: 12, monofia st - # -
+- name: el falah - category: kebda - owner: ziad ahmed - phone: 01524426532 - address: 17, alex s - # -
+- name: yossif - category: fried chicken - owner: abdo ashraf - phone: 01090594966 - address: menof                                                                                                - # -
